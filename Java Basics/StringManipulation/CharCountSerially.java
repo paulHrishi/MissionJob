@@ -2,7 +2,7 @@ package StringManipulation;
 
 public class CharCountSerially {
     public static void main(String[] args) {
-        String str = "aaaabbcca";
+        String str = "a";
         char [] strArray = str.toCharArray();
         int count =1;
         StringBuilder sb = new StringBuilder();
